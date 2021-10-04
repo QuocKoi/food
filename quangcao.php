@@ -38,14 +38,14 @@ function hide_float_right() {
 <a href="javascript:hide_float_right()">Tắt quảng cáo[X]</a></div>
 <div id="float_content_right">
 <!-- Start quang cao-->
-<img src="images/QuangCao/giphy.gif" width="165" height="115" />
+<img src="images/QC1/giphy.gif" width="165" height="115" />
 <!-- End quang cao -->
 </div>
 </div>
     <div id="onl" style="position: fixed; bottom: 0px; top:100px;left:300px;z-index:100;">
         <div style="backgroud-color:black; width:1000px; height=200px;">
             <a href="javascript: un()" style="color:#FF0000"><i class="fas fa-times-circle"></i></a>
-            <img src="images/QuangCao/v.jpg" width="500px" height="400px">
+            <img src="images/QC1/v.jpg" width="500px" height="400px">
         </div>
     </div>	
 	 
